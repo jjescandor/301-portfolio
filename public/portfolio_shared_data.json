@@ -36,6 +36,11 @@
         "level": "85"
       },
       {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "85"
+      },
+      {
         "name": "React",
         "class": "devicon-react-original",
         "level": "80"

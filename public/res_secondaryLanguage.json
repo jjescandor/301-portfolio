@@ -1,19 +1,20 @@
 {
   "basic_info": {
-    "description_header": "Cześć",
-    "description": "👋 Jestem JJ Escandor. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+    "description_header": "Hi",
+    "description": "👋 Ang Aking Panagalan ay JJ Escandor. I'm a Data Scientist with background in software engineering and defense consulting leveraging over a decade of technical and consulting experience. Passionate about using code to optimize efficiency while developing creative, customer-focused solutions. Veteran of the United States Navy, with active Secret clearance. Multilingual: English, Filipino, and Spanish. ",
     "section_name": {
-      "about": "O mnie",
-      "projects": "Projekty",
-      "skills": "Umiejętności",
-      "experience": "Doświadczenie"
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "education": "Experience"
     }
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+      "title": "Escape Reality",
+      "startDate": "Video Game",
+      "description": "Isa sa pinaka exciting na proyecto and aking ginawa. I've learned many technologies and my the application was demo'ed in front of Code Fellows students and faculties. This application is the culmination of everything that I've learned as a 201 student at Code Fellows.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
@@ -21,23 +22,23 @@
       "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "title": "Horned Beast",
+      "startDate": "Social Media",
+      "description": "Ang proyevtong eto ay napaka importante sa akin. I employed React.js, Bootstrap, REST API and Local Storage on this project. ",
       "images": [
         "images/portfolio/photography/p1.jpg",
         "images/portfolio/photography/p2.jpg"
@@ -49,15 +50,19 @@
           "name": "React"
         },
         {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
         }
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "title": "Pat's Salmon Cookies",
+      "startDate": "E-Commerce",
+      "description": "Ako ay labis na nagalaksa pag gawa proyectong eto. I had a lot of fun developing my front end development skills using HTML, CSS and Javascript. This is where my personal style as a developer started to blossom",
       "images": [
         "images/portfolio/adventure/p1.jpg",
         "images/portfolio/adventure/p2.jpg"
@@ -65,16 +70,16 @@
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         }
       ]
     }
@@ -84,6 +89,7 @@
       "company": "Northrop Grumman",
       "title": "Sr Data Analyst",
       "years": "10.2021 - present",
+      "symbol": "fab fa-python experience-icon",
       "mainTech": [
         "Python"
       ],
@@ -102,6 +108,7 @@
       "company": "SAA",
       "title": "Data Analyst II",
       "years": "01.2018 - 09.2019",
+      "symbol": "fab fa-java experience-icon",
       "mainTech": [
         "Tableau"
       ],
@@ -118,6 +125,7 @@
       "company": "United States Navy",
       "title": "First Class Petty Officer",
       "years": "01.2018 - 09.2019",
+      "symbol": "fab fa-javascript experience-icon",
       "mainTech": [
         "VMWare"
       ],
