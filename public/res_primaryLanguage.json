@@ -1,118 +1,142 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+        "description_header": "Hi",
+        "description": "👋 I'm JJ Escandor. I'm a Data Scientist with background in software engineering and defense consulting leveraging over a decade of technical and consulting experience. Passionate about using code to optimize efficiency while developing creative, customer-focused solutions. Veteran of the United States Navy, with active Secret clearance. Multilingual: English, Filipino, and Spanish. ",
+        "section_name": {
+            "about": "About me",
+            "projects": "Projects",
+            "skills": "Skills",
+            "experience": "Experience",
+            "education": "Experience"
+        }
     },
     "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
+        {
+            "title": "Escape Reality",
+            "startDate": "Video Game",
+            "description": "The most fun application I had opportunity to work with. I've learned many technologies and my the application was demo'ed in front of Code Fellows students and faculties. This application is the culmination of everything that I've learned as a 201 student at Code Fellows.",
+            "images": [
+                "images/portfolio/animal-shelter/p1.jpg",
+                "images/portfolio/animal-shelter/p2.jpg"
+            ],
+            "url": "",
+            "technologies": [
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML5"
+                }
+            ]
+        },
+        {
+            "title": "Horned Beast",
+            "startDate": "Social Media",
+            "description": "This is one of the first big project I completed in 301 at Code Fellows. I employed React.js, Bootstrap, REST API and Local Storage on this project. ",
+            "images": [
+                "images/portfolio/photography/p1.jpg",
+                "images/portfolio/photography/p2.jpg"
+            ],
+            "url": "https://github.com",
+            "technologies": [
+                {
+                    "class": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                }
+            ]
+        },
+        {
+            "title": "Pat's Salmon Cookies",
+            "startDate": "E-Commerce",
+            "description": "This was one of the first big projects I completed in 201 at Code Fellows. I had a lot of fun developing my front end development skills using HTML, CSS and Javascript. This is where my personal style as a developer started to blossom",
+            "images": [
+                "images/portfolio/adventure/p1.jpg",
+                "images/portfolio/adventure/p2.jpg"
+            ],
+            "url": "https://github.com",
+            "technologies": [
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML5"
+                }
+            ]
+        }
     ],
     "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
+        {
+            "company": "Northrop Grumman",
+            "title": "Sr Data Analyst",
+            "years": "10.2021 - present",
+            "symbol": "fab fa-python experience-icon",
+            "mainTech": [
+                "Python"
+            ],
+            "technologies": [
+                "Jupiter NoteBook",
+                "Numpy",
+                "Matplotlib",
+                "Scikit-Learn",
+                "Pandas",
+                "Tableau",
+                "SQL",
+                "Power BI"
+            ]
+        },
+        {
+            "company": "SAA",
+            "title": "Data Analyst II",
+            "years": "01.2018 - 09.2019",
+            "symbol": "fab fa-java experience-icon",
+            "mainTech": [
+                "Tableau"
+            ],
+            "technologies": [
+                "Tableau",
+                "Python",
+                "Microsoft Project",
+                "TEAMS",
+                "SQL",
+                "Power BI"
+            ]
+        },
+        {
+            "company": "United States Navy",
+            "title": "First Class Petty Officer",
+            "years": "01.2018 - 09.2019",
+            "symbol": "fab fa-javascript experience-icon",
+            "mainTech": [
+                "VMWare"
+            ],
+            "technologies": [
+                "NALCOMIS",
+                "VMWare",
+                "Microsoft Server 2016",
+                "AWS",
+                "SQL",
+                "Linux"
+            ]
+        }
     ]
-  }
+}
